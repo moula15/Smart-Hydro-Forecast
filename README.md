@@ -247,7 +247,7 @@ pip install -r requirements.txt
 Open the notebook using **Google Colab** or **Jupyter Notebook**.
 
 ```text
-AIML_CT_PROJECT_07_07_26_MOULA.ipynb
+AIML_CT_PROJECT_07_07_26_MOULASREE.ipynb
 ```
 
 ## Step 5: Run the Notebook
